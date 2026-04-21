@@ -11,7 +11,7 @@
   <b><i>N</i></b>eural and
   <b><i>M</i></b>achine learning models under
   <b><i>E</i></b>mission constraints for
-  <b><i>D</i></b>iagnostical Datasets
+  <b><i>D</i></b>iagnostical datasets
 </p>
 
 <p align="center">
