@@ -28,7 +28,7 @@ for col in df.select_dtypes(include=[np.number]).columns:
 df['Sex'] = df['Sex'].map({'m': 1, 'f': 0}).fillna(0).astype(int)
 
 # Target variable is Category
-# Encode Category to Binary: 0 for Blood Donors, 1 for Disease (Hepatitis/Fibrosis/Cirrhosis)
+# Encode Category to Binary: 0 for Blood Donors, 1 for Disease (Hepatitis/Fibrosis/)
 df['Category'] = df['Category'].apply(lambda x: 0 if str(x).startswith('0') else 1)
 
 # Feature Engineering for HCV
