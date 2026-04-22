@@ -18,8 +18,8 @@
   <img src="https://img.shields.io/badge/Course-CSE427%3A%20Machine%20Learning-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/University-BRAC%20University-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Semester-Spring%202026-orange?style=for-the-badge" />
-  <a href="#">
-    <img src="https://img.shields.io/badge/📄%20Read%20Paper-Click%20Here-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
+  <a href="https://drive.google.com/file/d/1L1hhtKRZwpsVM-T7WIkDwIAUcZvxw2aF/view?usp=sharing">
+    <img src="https://img.shields.io/badge/%20Read%20Paper-Click%20Here-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
   </a>
 </p>
 
@@ -94,7 +94,7 @@ git clone https://github.com/mazidzomader/CSE427-Project-BRACU.git
 
 <p align="center">
   <img src="https://img.shields.io/badge/Format-IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
-  <a href="#">
+  <a href="https://drive.google.com/file/d/1L1hhtKRZwpsVM-T7WIkDwIAUcZvxw2aF/view?usp=sharing">
     <img src="https://img.shields.io/badge/📄%20Read%20Paper-Click%20Here-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
   </a>
 </p>
